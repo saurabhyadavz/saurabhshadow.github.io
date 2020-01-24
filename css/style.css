@@ -3,8 +3,8 @@ body,html {
 	margin: 0;
 }
 #jumbo{background: #b92b27;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to bottom, #FF4000, #B45F04);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to bottom, #FF4000,#2E64FE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(to bottom, #1565C0, #b92b27);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #1565C0, #b92b27); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 .jumbotron{
@@ -19,7 +19,7 @@ background: linear-gradient(to bottom, #FF4000,#2E64FE); /* W3C, IE 10+/ Edge, F
 .name{
 	font-family: 'Dosis', sans-serif;
 	font-size: 96px;
-	color:#FAFAFA ;
+	color: #FF6347;
 	font-weight: 400;
 	margin-bottom: 10px;
 	text-align: center;
@@ -28,7 +28,7 @@ background: linear-gradient(to bottom, #FF4000,#2E64FE); /* W3C, IE 10+/ Edge, F
 	font-family: 'Dosis', sans-serif;
 	font-weight: 200;
 	font-size: 64px;
-	color: #BFFF00;
+	color: #39FF14;
 	margin-bottom: 50px;
 	text-align: center;
 }
@@ -78,5 +78,3 @@ background: linear-gradient(to bottom, #FF4000,#2E64FE); /* W3C, IE 10+/ Edge, F
 	font-size: 24px;
 	margin-bottom: 10px;
 }
-
-
